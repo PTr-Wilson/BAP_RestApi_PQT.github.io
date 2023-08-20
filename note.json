@@ -1,0 +1,17 @@
+{
+  "message": "creat succes",
+  "products": [
+    { "id": 1, "name": "Chocolate Bar", "price": 15000 },
+    { "id": 2, "name": "Coffee Mug", "price": 7500 },
+    { "id": 3, "name": "Laptop Bag", "price": 25000 },
+    { "id": 4, "name": "Bluetooth Speaker", "price": 120000 },
+    { "id": 5, "name": "Sneakers", "price": 500000 },
+    { "id": 6, "name": "Headphones", "price": 250000 },
+    { "id": 7, "name": "Smartphone Case", "price": 35000 },
+    { "id": 8, "name": "Wrist Watch", "price": 180000 },
+    { "id": 9, "name": "Wireless Mouse", "price": 5000 },
+    { "id": 10, "name": "USB Flash Drive", "price": 12000 },
+    { "id": 11, "name": "Red Apple meo meo", "price": 121600 },
+    { "id": 12, "name": "Gas cocacala", "price": 300000 }
+  ]
+}
